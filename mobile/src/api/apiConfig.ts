@@ -1,1 +1,0 @@
-export const apiUri = "http://192.168.13.243:3500"
